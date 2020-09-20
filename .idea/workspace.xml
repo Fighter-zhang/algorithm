@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ef1c596-352a-4742-8b03-d755d329c4db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/apache/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h5xzt5Wf4az917Aloj0iaRrZiv" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.P78subsets">
+    <configuration name="P10T03search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.jerry.binarySearch.P10T03search" />
+      <module name="leetcode-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.jerry.binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P154findMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.jerry.binarySearch.P154findMin" />
+      <module name="leetcode-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.jerry.binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P739dailyTemperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.jerry.stack.P739dailyTemperatures" />
+      <module name="leetcode-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.jerry.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P78subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.jerry.backtrack.P78subsets" />
+      <module name="leetcode-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.jerry.backtrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P79exist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.jerry.backtrack.P79exist" />
+      <module name="leetcode-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.jerry.backtrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P78subsets" />
+        <item itemvalue="Application.P739dailyTemperatures" />
+        <item itemvalue="Application.P79exist" />
+        <item itemvalue="Application.P10T03search" />
+        <item itemvalue="Application.P154findMin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ef1c596-352a-4742-8b03-d755d329c4db" name="Default Changelist" comment="" />
+      <created>1599315019412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599315019412</updated>
+      <workItem from="1599315021297" duration="8110000" />
+      <workItem from="1599541324213" duration="3318000" />
+      <workItem from="1599631602905" duration="8547000" />
+      <workItem from="1599721481649" duration="1278000" />
+      <workItem from="1599792181247" duration="4027000" />
+      <workItem from="1599819167386" duration="6968000" />
+      <workItem from="1600054518785" duration="1829000" />
+      <workItem from="1600083305472" duration="1261000" />
+      <workItem from="1600237004670" duration="512000" />
+      <workItem from="1600570145839" duration="259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="194" key="#Project_Structure" timestamp="1599315153462">
+      <screen x="0" y="23" width="1792" height="1011" />
+    </state>
+    <state x="496" y="194" key="#Project_Structure/0.23.1792.1011@0.23.1792.1011" timestamp="1599315153462" />
+    <state width="1736" height="328" key="GridCell.Tab.0.bottom" timestamp="1600570403663">
+      <screen x="0" y="23" width="1792" height="1011" />
+    </state>
+    <state width="1748" height="339" key="GridCell.Tab.0.bottom/0.23.1792.1011/1792.63.1920.1057@0.23.1792.1011" timestamp="1599793150792" />
+    <state width="1736" height="328" key="GridCell.Tab.0.bottom/0.23.1792.1011@0.23.1792.1011" timestamp="1600570403663" />
+    <state width="1736" height="135" key="GridCell.Tab.0.bottom/0.23.1792.1012@0.23.1792.1012" timestamp="1600048766170" />
+    <state width="1736" height="328" key="GridCell.Tab.0.center" timestamp="1600570403662">
+      <screen x="0" y="23" width="1792" height="1011" />
+    </state>
+    <state width="1748" height="339" key="GridCell.Tab.0.center/0.23.1792.1011/1792.63.1920.1057@0.23.1792.1011" timestamp="1599793150792" />
+    <state width="1736" height="328" key="GridCell.Tab.0.center/0.23.1792.1011@0.23.1792.1011" timestamp="1600570403662" />
+    <state width="1736" height="135" key="GridCell.Tab.0.center/0.23.1792.1012@0.23.1792.1012" timestamp="1600048766169" />
+    <state width="1736" height="328" key="GridCell.Tab.0.left" timestamp="1600570403662">
+      <screen x="0" y="23" width="1792" height="1011" />
+    </state>
+    <state width="1748" height="339" key="GridCell.Tab.0.left/0.23.1792.1011/1792.63.1920.1057@0.23.1792.1011" timestamp="1599793150791" />
+    <state width="1736" height="328" key="GridCell.Tab.0.left/0.23.1792.1011@0.23.1792.1011" timestamp="1600570403662" />
+    <state width="1736" height="135" key="GridCell.Tab.0.left/0.23.1792.1012@0.23.1792.1012" timestamp="1600048766169" />
+    <state width="1736" height="328" key="GridCell.Tab.0.right" timestamp="1600570403663">
+      <screen x="0" y="23" width="1792" height="1011" />
+    </state>
+    <state width="1748" height="339" key="GridCell.Tab.0.right/0.23.1792.1011/1792.63.1920.1057@0.23.1792.1011" timestamp="1599793150792" />
+    <state width="1736" height="328" key="GridCell.Tab.0.right/0.23.1792.1011@0.23.1792.1011" timestamp="1600570403663" />
+    <state width="1736" height="135" key="GridCell.Tab.0.right/0.23.1792.1012@0.23.1792.1012" timestamp="1600048766170" />
+    <state width="1736" height="135" key="GridCell.Tab.1.bottom" timestamp="1600048766171">
+      <screen x="0" y="23" width="1792" height="1012" />
+    </state>
+    <state width="1748" height="339" key="GridCell.Tab.1.bottom/0.23.1792.1011/1792.63.1920.1057@0.23.1792.1011" timestamp="1599793150793" />
+    <state width="1748" height="142" key="GridCell.Tab.1.bottom/0.23.1792.1011@0.23.1792.1011" timestamp="1599810991972" />
+    <state width="1736" height="135" key="GridCell.Tab.1.bottom/0.23.1792.1012@0.23.1792.1012" timestamp="1600048766171" />
+    <state width="1736" height="135" key="GridCell.Tab.1.center" timestamp="1600048766170">
+      <screen x="0" y="23" width="1792" height="1012" />
+    </state>
+    <state width="1748" height="339" key="GridCell.Tab.1.center/0.23.1792.1011/1792.63.1920.1057@0.23.1792.1011" timestamp="1599793150793" />
+    <state width="1748" height="142" key="GridCell.Tab.1.center/0.23.1792.1011@0.23.1792.1011" timestamp="1599810991972" />
+    <state width="1736" height="135" key="GridCell.Tab.1.center/0.23.1792.1012@0.23.1792.1012" timestamp="1600048766170" />
+    <state width="1736" height="135" key="GridCell.Tab.1.left" timestamp="1600048766170">
+      <screen x="0" y="23" width="1792" height="1012" />
+    </state>
+    <state width="1748" height="339" key="GridCell.Tab.1.left/0.23.1792.1011/1792.63.1920.1057@0.23.1792.1011" timestamp="1599793150793" />
+    <state width="1748" height="142" key="GridCell.Tab.1.left/0.23.1792.1011@0.23.1792.1011" timestamp="1599810991972" />
+    <state width="1736" height="135" key="GridCell.Tab.1.left/0.23.1792.1012@0.23.1792.1012" timestamp="1600048766170" />
+    <state width="1736" height="135" key="GridCell.Tab.1.right" timestamp="1600048766170">
+      <screen x="0" y="23" width="1792" height="1012" />
+    </state>
+    <state width="1748" height="339" key="GridCell.Tab.1.right/0.23.1792.1011/1792.63.1920.1057@0.23.1792.1011" timestamp="1599793150793" />
+    <state width="1748" height="142" key="GridCell.Tab.1.right/0.23.1792.1011@0.23.1792.1011" timestamp="1599810991972" />
+    <state width="1736" height="135" key="GridCell.Tab.1.right/0.23.1792.1012@0.23.1792.1012" timestamp="1600048766170" />
+    <state x="366" y="163" key="NewModule_or_Project.wizard" timestamp="1600570289627">
+      <screen x="0" y="23" width="1792" height="1011" />
+    </state>
+    <state x="366" y="163" key="NewModule_or_Project.wizard/0.23.1792.1011@0.23.1792.1011" timestamp="1600570289627" />
+    <state x="397" y="167" key="SettingsEditor" timestamp="1599400407246">
+      <screen x="0" y="23" width="1792" height="1011" />
+    </state>
+    <state x="397" y="167" key="SettingsEditor/0.23.1792.1011@0.23.1792.1011" timestamp="1599400407246" />
+    <state x="477" y="253" width="837" height="550" key="find.popup" timestamp="1599808915968">
+      <screen x="0" y="23" width="1792" height="1011" />
+    </state>
+    <state x="477" y="253" width="837" height="550" key="find.popup/0.23.1792.1011@0.23.1792.1011" timestamp="1599808915968" />
+    <state x="561" y="246" width="838" height="677" key="search.everywhere.popup" timestamp="1600047475277">
+      <screen x="0" y="23" width="1792" height="1012" />
+    </state>
+    <state x="561" y="246" width="670" height="676" key="search.everywhere.popup/0.23.1792.1011@0.23.1792.1011" timestamp="1599701866630" />
+    <state x="561" y="246" width="838" height="677" key="search.everywhere.popup/0.23.1792.1012@0.23.1792.1012" timestamp="1600047475277" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/jerry/binarySearch/P32searchRange.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/jerry/binarySearch/P32searchRange.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
